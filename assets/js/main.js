@@ -20,3 +20,9 @@ navLink.forEach((element) =>
     navMenu.classList.remove("show-menu");
   })
 );
+
+window.addEventListener("scroll", () => {
+  const header = document.getElementById("header");
+  if (this.scrollY >= 50) header.classList.add("header--scroll");
+  else header.classList.remove("header--scroll");
+});
