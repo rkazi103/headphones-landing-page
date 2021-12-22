@@ -12,4 +12,4 @@ Pure HTML, CSS, and JavaScript using Scroll Reveal
 
 ## Demo
 
-Click [here]("https://rkazi103.github.io/headphones-landing-page/") to view a demo!
+Click [here](https://rkazi103.github.io/headphones-landing-page/) to view a demo!
